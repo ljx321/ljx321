@@ -1,5 +1,6 @@
 ### Hi there 👋
 # 我叫李经鑫，我22岁，山东泰安人，就读于淄博职业学院信息工程系
+我对计算机专业兴趣很高，从小学就开始接触计算机，虽然大部分时间都在打游戏，但是也有做一些表格P一些图，对计算机行业的兴趣很浓厚，对计算机行业未来的前景也很看好。
 <!--
 **ljx321/ljx321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
