@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# 我叫李经鑫，我22岁，山东泰安人，就读于淄博职业学院信息工程系
 <!--
 **ljx321/ljx321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
